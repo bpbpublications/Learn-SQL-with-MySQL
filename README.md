@@ -1,7 +1,7 @@
 # Learn SQL with MySQL
 Retrieve and Manipulate Data Using SQL Commands with Ease
  
-This is the code repository for [Learn SQL with MySQL](https://bpbonline.com/products/sharepoint-framework-spfx-development-book-ebook?_pos=1&_sid=cb2c6fcd0&_ss=r), published by BPB Publications. It contains all the supporting project files necessary to work through the journey of this book
+This is the code repository for [Learn SQL with MySQL](https://bpbonline.com/products/sql-with-mysql-relational-database-book-ebook?_pos=1&_sid=fc89ea298&_ss=r), published by BPB Publications. It contains all the supporting project files necessary to work through the journey of this book
 
 ## About the Book
 This book starts with the concepts in RDBMS (Relational Database Management Systems) and SQL (Structured Query Language). The first few chapters cover the definitions and a brief explanation of all the important concepts. They also cover the installation of MariaDB and MySQL on Windows and Raspberry Pi, as well as the setup of various tools used to connect to MySQL and MariaDB server processes. We will also understand how to install sample schemas and how to use basic SQL queries. Then we move on to the SELECT query in detail. The book explores the data retrieval aspect of SQL queries in detail with the WHERE clause and NULL handling in detail. The book also explores the functions available in MySQL. Those are single row and group functions. Then we explore how to combine the data from multiple sources. The technique is known as Joins, and we will learn ANSI style and the old-style syntax for all the types of Joins. 
